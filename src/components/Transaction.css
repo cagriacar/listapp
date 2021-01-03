@@ -1,0 +1,10 @@
+.banner {
+  background: gray;
+  margin: 10px 10px 0 10px;
+  padding: 1rem;
+}
+.list-icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
